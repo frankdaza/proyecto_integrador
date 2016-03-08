@@ -3,6 +3,10 @@ package co.edu.usbcali.suma;
 public class Suma {
 
 	public static void main(String[] args) {
+		System.out.println("Me gusta the walking dead!!!!");
+		System.out.println("Hello World!");
+		
+		
 		Integer a = 666;
 		Integer b = 23;
 		Integer c = 123;
