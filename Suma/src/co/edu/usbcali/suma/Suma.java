@@ -5,8 +5,9 @@ public class Suma {
 	public static void main(String[] args) {
 		Integer a = 1234;
 		Integer b = 23;
+		Integer c = 123;
 		
-		System.out.println("La suma es: " + (a + b));
+		System.out.println("La suma es: " + (a + b + c));
 	}
 
 }
